@@ -1,1 +1,1 @@
-# odin_RPS2
+# odin_tic tac toe
