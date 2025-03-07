@@ -40,8 +40,8 @@ function player(name, marker, moves, color){
 // Game controller Module
 const controller = (function(){
 
-    let playerOneName = "Samin";
-    let playerTwoName = "Pamin";
+    let playerOneName = "Player 1";
+    let playerTwoName = "player 2";
 
     let playerOne = player(playerOneName, "X", [], "#EA3323")
     let playerTwo = player(playerTwoName, "O", [], "#0000F5")
